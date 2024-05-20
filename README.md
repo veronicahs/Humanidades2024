@@ -4,12 +4,12 @@ Aquí tienes los artículos que utilicé para la charla de Ciencia de datos e In
 
 [HISTORIA](https://github.com/veronicahs/Humanidades2024/files/15375060/HISTORIA-Measuring.Intersectional.Biases.in.Historical.Documents.pdf)
 
-[ARQUEOLOGIA](https://github.com/veronicahs/Humanidades2024/files/15375054/ARQUEOLOGIA-SSRN-id4744069.pdf)
+[ARQUEOLOGíA](https://github.com/veronicahs/Humanidades2024/files/15375054/ARQUEOLOGIA-SSRN-id4744069.pdf)
 
 [LINGÜÍSTICA](https://fabriciusworkbench.withgoogle.com/)
 
 [ARTE](https://github.com/veronicahs/Humanidades2024/files/15375068/ARTE-BDCC-07-00162-v2.pdf)
 
-[FILOSOFIA](https://github.com/veronicahs/Humanidades2024/files/15375069/FILOSOFIA-s11229-019-02390-8.pdf)
+[FILOSOFíA](https://github.com/veronicahs/Humanidades2024/files/15375069/FILOSOFIA-s11229-019-02390-8.pdf)
 
-[MUSICA](https://github.com/veronicahs/Humanidades2024/files/15375072/MUSICA.pdf)
+[MúSICA](https://github.com/veronicahs/Humanidades2024/files/15375072/MUSICA.pdf)
