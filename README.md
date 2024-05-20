@@ -8,6 +8,10 @@ Aquí tienes los artículos que utilicé para la charla de Ciencia de datos e In
 
 [LINGÜÍSTICA](https://fabriciusworkbench.withgoogle.com/)
 
+
+[LITERATURA](https://github.com/veronicahs/Humanidades2024/files/15375182/LITERATURA-sustainability-15-05265-v3.pdf)
+
+
 [ARTE](https://github.com/veronicahs/Humanidades2024/files/15375068/ARTE-BDCC-07-00162-v2.pdf)
 
 [FILOSOFíA](https://github.com/veronicahs/Humanidades2024/files/15375069/FILOSOFIA-s11229-019-02390-8.pdf)
