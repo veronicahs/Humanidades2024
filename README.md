@@ -12,4 +12,4 @@ Aquí tienes los artículos que utilicé para la charla de Ciencia de datos e In
 
 [FILOSOFíA](https://github.com/veronicahs/Humanidades2024/files/15375069/FILOSOFIA-s11229-019-02390-8.pdf)
 
-[MúSICA](https://github.com/veronicahs/Humanidades2024/files/15375072/MUSICA.pdf)
+[MÚSICA](https://github.com/veronicahs/Humanidades2024/files/15375072/MUSICA.pdf)
