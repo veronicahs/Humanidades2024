@@ -1,6 +1,6 @@
 # Humanidades 2024
 
-Aquí tienes los artículos que utilicé para la charla de Ciencia de datos e Inteligencia Artificial aplicadas a las Humanidades.
+Aquí tienes los artículos que utilicé para la charla de Ciencia de datos e Inteligencia Artificial aplicadas a las Humanidades en la UGR.
 
 [HISTORIA](https://github.com/veronicahs/Humanidades2024/files/15375060/HISTORIA-Measuring.Intersectional.Biases.in.Historical.Documents.pdf)
 
